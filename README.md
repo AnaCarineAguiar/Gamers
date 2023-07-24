@@ -1,6 +1,10 @@
+A Rede Social dos Gamers!
+
+1º Etapa: Protótipo - Feito no Figma
+Telas a seguir:
 ![](https://cdn.discordapp.com/attachments/792402272738476082/819975169786380328/logo.png)
 
-A social media for gamers. GG's!
+
 
 # Page prototypes:
 ## Home
