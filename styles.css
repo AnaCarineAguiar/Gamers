@@ -209,3 +209,17 @@ header nav ul li a:hover {
 
   color: #000000;
 }
+
+.corInicio {
+  color:#3823fa
+}
+
+.search-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.search-container p {
+  margin-top: 10px;
+}
