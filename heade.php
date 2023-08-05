@@ -23,7 +23,7 @@
           <input type="text" id="input-search" placeholder="Procurar"/>
           <button type="submit"><img src="public/images/search.svg"/></button>
         </div>             
-          <li><a href="index.php" class="corInicio"><b>Início</b></a></li>
+          <li><a href="inicio.php" class="corInicio"><b>Início</b></a></li>
           <li><a href="amigos.php">Amigos</a></li>
           <li><a href="games.php">Games</a></li>
           <li><a href="forum.php">Fóruns</a></li>
