@@ -11,26 +11,29 @@
       href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;500;600&display=swap"
       rel="stylesheet"/>
   </head>
+
   <body>
     <header>
     <nav>
       <ul>
         <div id="top" class="top">
+      
         <div id="logo">
           <img src="public/images/logo.svg" alt="logo gamers" />
         </div>
+
         <div id="search-container">
           <input type="text" id="input-search" placeholder="Procurar"/>
           <button type="submit"><img src="public/images/search.svg"/></button>
-        </div>             
+        </div>  
+
           <li><a href="inicio.php" class="corInicio"><b>Início</b></a></li>
           <li><a href="amigos.php">Amigos</a></li>
           <li><a href="games.php">Games</a></li>
           <li><a href="forum.php">Fóruns</a></li>
-          <li>
-            <a href="#"><img src="public/images/notifications.svg" alt="notifications"/>
-            </a>
+          <li><a href="#"><img src="public/images/notifications.svg" alt="notifications"/></a>
           </li>
+          <li><a href="index.html"><img src="imagem\icons8-usuário-32.png" alt="usuário" width="25px"/></a>
         </div>
       </ul>
     </nav>  
