@@ -83,7 +83,7 @@ body {
     <div id="post-bar">
       <div class="user">
       <img src="public/images/image.svg" alt="profileImage1" id="image1" width="60px"/>
-      <a href="#" id="nickname1">Catloka</a>
+      <a href="#" id="nickname1">@Catloka</a>
       </div>
       <div class="comentario">
       <p class="comentario">Escreva seu momento do dia!</p></br>
@@ -96,7 +96,7 @@ body {
     <div class="timeline">
       <div class="nick-post">
         <img src="public/images/image.svg" alt="profileImage" class="image2"/><br>
-        <a href="#" class="nickname2">Mini Sombra</a><br>
+        <a href="#" class="nickname2">@Mini Sombra</a><br>
       </div>
       <p class="timeline-post">Perdi uma rank hoje, baixou meu pdl... aaahhh</p><br>
       <div class="comentario-like">
@@ -109,7 +109,7 @@ body {
     <div class="timeline">
       <div class="nick-post">
         <img src="public/images/image.svg" alt="profileImage" class="image2"/> <br>
-        <a href="#" class="nickname3">Noob Poderoso</a><br>
+        <a href="#" class="nickname3">@Birizinho</a><br>
       </div>
       <p class="timeline-post">Oi galera, bora jogar?</p><br>
       <div class="comentario-like">
