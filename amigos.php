@@ -26,7 +26,7 @@
     }
 
     .amigos{
-      background: #E427DD;
+      background: #885a86;
       width: 20%;
       padding: 15px;
     }

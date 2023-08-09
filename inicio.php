@@ -24,7 +24,7 @@ body {
 }
 
 #nickname1 {
-  color: #E427DD;
+  color: #C4C4C4;
   position: absolute;
   margin-top: 75px;
 }
@@ -45,7 +45,7 @@ body {
 }
 
 .timeline-post {
-  background: #E427DD;
+  background: #885a86;
   padding: 20px;
   width: 60%;
   display: flex;
@@ -57,7 +57,7 @@ body {
   position: absolute;
   padding: 7px;
   background: #B5AFAF;
-  color: #E427DD;
+  color: #885a86;
   cursor: pointer;
   margin-top: 5px;
   margin-left: 15px;

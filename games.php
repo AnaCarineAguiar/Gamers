@@ -14,7 +14,7 @@ body {
 h1 {
   display: flex;
   justify-content: center;
-  background: #E427DD;
+  background: #885a86;
   width: 20%;
   padding: 15px;
   margin-top: 25px;
